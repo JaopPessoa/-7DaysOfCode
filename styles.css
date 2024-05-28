@@ -1,0 +1,21 @@
+@import url("Styles/nav.css");
+@import url("Styles/header.css");
+@import url("Styles/banner.css");
+@import url("Styles/main.css");
+@import url("Styles/segmentos.css");
+@import url("/Styles/depoimento.css");
+@import url("/Styles/rodape.css");
+
+:root {
+    
+    --fonte-principal: "Inter";
+    --cinza-escuro: #3A404E;
+    --cinza-claro: #667085;
+    --cinza-opaco: #6670854e;
+    --vermelho: #8E2424;
+    --vermelho-opaco: #8e24241a;
+    --branco: #ffffff;
+    --preto: #000000;
+    --cor-fonte-principal: #101828;
+    --cor-de-fundo: #F9FAFB;
+}

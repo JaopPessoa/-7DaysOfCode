@@ -1,0 +1,35 @@
+@media screen and (min-width: 1024px) {
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin: 1em 0 8em 4em;
+    font-family: var(--fonte-principal);
+    width: 90vw;
+}
+
+.banner__coluna {
+    padding: 0 3em;
+}
+
+.banner__valores {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+    padding: 0 1em 0 0;
+}
+
+.banner__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 1em 0;
+}
+
+.banner__texto {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+}
+
+}

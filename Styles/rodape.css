@@ -1,0 +1,48 @@
+@media screen and (min-width: 1024px) {
+
+.rodape {
+    background: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    padding: 3em;
+    text-align: center;
+}
+
+.rodape__titulo {
+    color: var(--cor-fonte-principal);
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.rodape__subtitulo {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    font-weight: 400;
+    margin: 1em;
+}
+
+.rodape__email {
+    color: var(--cinza-escuro);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1em 14em 1em 1em;
+    margin: 1em 0.5em;
+    border-radius: 7px;
+    border: 1px solid var(--cinza-claro);
+}
+
+.rodape__botao {
+    background: var(--vermelho);
+    color: var(--branco);
+    padding: 1em;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
+.rodape__texto {
+    color: var(--cinza-claro);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 2em;
+}
+
+}

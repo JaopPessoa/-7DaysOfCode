@@ -1,0 +1,40 @@
+@media screen and (min-width: 1024px) {
+
+.depoimentos {
+    font-family: var(--fonte-principal);
+    text-align: center;
+    background: var(--vermelho-opaco);
+    margin: 5em;
+    border-radius: 16px;
+}
+
+.secao__depoimentos {
+    padding: 5.5em;
+}
+
+.depoimentos__topo {
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.depoimentos__titulo {
+    color: var(--cor-fonte-principal);
+    font-size: 36px;
+    font-weight: 500;
+    margin: 1em;
+}
+
+.nome {
+    color: var(--cor-fonte-principal);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1em;
+}
+
+.texto__descricao {
+    color: var(--cinza-claro);
+    font-size: 14px;
+    font-weight: 400;
+}
+}

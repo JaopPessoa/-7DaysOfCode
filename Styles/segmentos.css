@@ -1,0 +1,49 @@
+@media screen and (min-width: 1024px) {
+
+.cargos__tipos {
+    height: 40vh;
+    display: grid;
+    column-gap: 10px;
+    justify-content: center;
+
+    color: var(--cor-fonte-principal);
+    font-family: var(--fonte-principal);
+    margin: 20vh 0;
+
+}
+
+.cargos__botao {
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid var(--cinza-opaco);
+    padding: 1em 20em 1em 1em;
+    margin: 2em;
+    
+}
+
+.cargos_titulo {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cargo {
+    font-size: 18;
+    font-weight: 500;
+    padding: 0 0 1em 0;
+}
+
+.cargo__descricao {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-claro);
+    padding: 1em 0 0 0;
+}
+
+.espaco {
+    padding-left: 1em;
+}
+
+.segundo__cargos {
+    padding-bottom: 20vh;
+}
+}

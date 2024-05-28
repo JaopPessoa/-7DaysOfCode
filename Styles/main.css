@@ -1,0 +1,35 @@
+@media screen and (min-width: 1024px) {
+
+.main {
+    text-align: center;
+    font-family: var(--fonte-principal);
+    margin: 16em 0 8em 0;
+}
+
+.main__topo {
+    color: var(--vermelho);
+    background-color: var(--vermelho-opaco);
+    border-radius: 10px;
+    padding: 0 0.5em;
+    margin-top: 1em;
+}
+
+.main__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 1em 0em;
+}
+
+.main__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding-bottom: 5em;
+
+}
+
+.main__img {
+    width: 80vw;   
+}
+
+}
