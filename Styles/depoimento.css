@@ -1,5 +1,3 @@
-@media screen and (min-width: 1024px) {
-
 .depoimentos {
     font-family: var(--fonte-principal);
     text-align: center;
@@ -36,5 +34,4 @@
     color: var(--cinza-claro);
     font-size: 14px;
     font-weight: 400;
-}
 }
