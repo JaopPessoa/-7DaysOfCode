@@ -1,5 +1,3 @@
-@media screen and (min-width: 1024px) {
-
 .cabecalho {
     text-align: center;
    font-family: var(--fonte-principal);
@@ -22,5 +20,4 @@
     font-size: 20px;
     font-weight: 400;
     margin: 0 17%;
-}
 }
